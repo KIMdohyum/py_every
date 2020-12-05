@@ -16,7 +16,7 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    if isinstance(message.channel, discord.DMChannel) and message.author.id != "715171908584210472":
+    if isinstance(message.channel, discord.DMChannel) and message.author.id != "782487475976798208":
         await bot.get_user(756045138542723082).send(f"{message.author.name} ({message.author.id}) : { message.content}")
 
 
