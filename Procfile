@@ -1,1 +1,1 @@
-worker: python Qna.py
+worker: python index.py
