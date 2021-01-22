@@ -17,7 +17,6 @@ pytz == 2020.1
 setuptools == 47.1.0
 six == 1.15.0
 v == 0.0.0
-웹 소켓 == 8.1
 yarl == 1.6.0
 zope.interface == 5.1.0
 async-timeout == 3.0.1
